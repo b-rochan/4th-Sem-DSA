@@ -1,6 +1,6 @@
 //Lucky draw bot randomly picks the winners. It posts an announcement message listing all the winners in the channel immediately after the activity is closed.
 //Everyone in the channel can see all the people joined the draw. Tryle team is conducting lucky draw contest, N number of users registered to the contest
-//and all users will be provided with unique user id. Tryle team makes use of Stack to store all the N user id’s. It’s very difficult for the team to select
+//and all users will be provided with unique user id. Tryle team makes use of Stack to store all the N user idâ€™s. Itâ€™s very difficult for the team to select
 //the lucky winners among N users. So the team come-up with a solution to select the lucky winners.
 
 #include <stdio.h>
